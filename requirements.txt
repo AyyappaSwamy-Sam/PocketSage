@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-dotenv
+pymongo
+bcrypt
+pyjwt[crypto]
+passlib[bcrypt]
+dnspython
+neo4j
+google-genai
+requests
+streamlit
+streamlit-geolocation
+assemblyai
+streamlit-audiorec
+cryptography
+ipaddress
